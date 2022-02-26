@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theZIDS
 - 👀 I’m interested in something new
-- 🌱 I’m currently learning bioinformatics
+- 🌱 I’m currently learning bioinformatics, chemtech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: ziddig.kerdpuckdee@gmail.com
                     
